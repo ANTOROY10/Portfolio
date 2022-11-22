@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "Anto Roy",
+    "label": "Data analyst",
+    "picture": "images/jcoelho.jpg",
+    "x_pictureFallback": "images/jcoelho.jpg",
+    "x_title": "Hey There! Glad you're here",
+    "summary": "A good hard worker with some knowledge in Data Science field and have some hands projects on it",
+    "location": {
+      "country": "India",
+      "countryCode": "In",
+      "region": "Tamil Nadu"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ANTO ROY",
+        "url": "https://www.linkedin.com/in/anto-roy-76a402209/",
+        "x_icon": "fab fa-2x fa-linkedin"
+      },
+      {
+        "network": "GitHub",
+        "username": "jcoelho93",
+        "url": "https://github.com/ANTOROY10",
+        "x_icon": "fab fa-2x fa-github"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Karunya University",
+      "area": "Computer Science Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2020",
+      "endDate": "2024",
+      "courses": [
+        "Object Oriented Programming",
+        "Database Management Systems",
+        "Operating systems and computers architectures",
+        "Requirements Engineering"
+      ]
+    }
+  ],
+  "skills": [
+    
+    {
+      "name": "Infrastructure as Code",
+      "x_icon": "fa-code",
+      "x_description": "Developing and maintaing infrastructure as code with Terraform, Packer and Vagrant"
+    },
+    {
+      "name": "Configuration Management",
+      "x_icon": "fa-gears",
+      "x_description": "Launching, configuring and maintaining cloud environments with Ansible"
+    },
+    {
+      "name": "CI/CD",
+      "x_icon": "fa-infinity",
+      "x_description": "Implementing continuous integration and deployment pipelines with Jenkins and GitLab CI"
+    },
+    {
+      "name": "Python",
+      "x_icon": "fa-brands fa-python",
+      "x_description": "Writting deployment tools and scripts, and automating all possible tasks with Python"
+    },
+    {
+      "name": "Monitoring",
+      "x_icon": "fa-chart-line",
+      "x_description": "Implementing centralized monitoring solution for cloud environments with Telegraf, InfluxDB and Grafana"
+    },
+    {
+      "name": "Serverless",
+      "x_icon": "fa-bolt",
+      "x_description": "Building reliable and cost efficient systems with Lambda functions and the serverless framework"
+    },
+    {
+      "name": "Containers",
+      "x_icon": "fa-brands fa-docker",
+      "x_description": "Delivering and distributing applications and tools with Docker, docker-compose and kubernetes"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "Tamil",
+      "fluency": "Native speaker"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certified IBM data analyst",
+      "issuer": "Coursera",
+      "url": "https://www.credly.com/badges/a15ee1ce-ad1c-45b6-a15b-1f75baf9467c/public_url",
+      "x_badgeId": "a15ee1ce-ad1c-45b6-a15b-1f75baf9467c",
+      "x_imageId": "5fc2d535-e716-46c4-881a-f4822b8da0e5",
+      "x_imageName":"Cognitive_Class_-_What_is_Data_Science.png"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Travel bug",
+      "x_icon": "fa-globe-africa"
+    },
+    {
+      "name": "Dog lover",
+      "x_icon": "fa-dog"
+    },
+    {
+      "name": "Foodie",
+      "x_icon": "fa-utensils"
+    },
+    {
+      "name": "Live in the now",
+      "x_icon": "fa-brain"
+    }
+  ]
+}
